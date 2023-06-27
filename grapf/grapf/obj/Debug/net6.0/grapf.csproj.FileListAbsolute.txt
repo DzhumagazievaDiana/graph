@@ -1,0 +1,15 @@
+C:\Users\АстМаркет\source\repos\grapf\grapf\bin\Debug\net6.0\grapf.exe
+C:\Users\АстМаркет\source\repos\grapf\grapf\bin\Debug\net6.0\grapf.deps.json
+C:\Users\АстМаркет\source\repos\grapf\grapf\bin\Debug\net6.0\grapf.runtimeconfig.json
+C:\Users\АстМаркет\source\repos\grapf\grapf\bin\Debug\net6.0\grapf.dll
+C:\Users\АстМаркет\source\repos\grapf\grapf\bin\Debug\net6.0\grapf.pdb
+C:\Users\АстМаркет\source\repos\grapf\grapf\obj\Debug\net6.0\grapf.csproj.AssemblyReference.cache
+C:\Users\АстМаркет\source\repos\grapf\grapf\obj\Debug\net6.0\grapf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АстМаркет\source\repos\grapf\grapf\obj\Debug\net6.0\grapf.AssemblyInfoInputs.cache
+C:\Users\АстМаркет\source\repos\grapf\grapf\obj\Debug\net6.0\grapf.AssemblyInfo.cs
+C:\Users\АстМаркет\source\repos\grapf\grapf\obj\Debug\net6.0\grapf.csproj.CoreCompileInputs.cache
+C:\Users\АстМаркет\source\repos\grapf\grapf\obj\Debug\net6.0\grapf.dll
+C:\Users\АстМаркет\source\repos\grapf\grapf\obj\Debug\net6.0\refint\grapf.dll
+C:\Users\АстМаркет\source\repos\grapf\grapf\obj\Debug\net6.0\grapf.pdb
+C:\Users\АстМаркет\source\repos\grapf\grapf\obj\Debug\net6.0\grapf.genruntimeconfig.cache
+C:\Users\АстМаркет\source\repos\grapf\grapf\obj\Debug\net6.0\ref\grapf.dll
